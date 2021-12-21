@@ -1,0 +1,19 @@
+.App {
+    margin: 1em;
+    padding: 2em;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.boards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.savedBoards {
+    display: flex;
+}
+
+.radio {
+    margin: 1em;
+}
